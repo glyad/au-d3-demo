@@ -1,0 +1,15 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "html.suggest.angular1": false,
+  "html.suggest.ionic": false,
+  "workbench.colorCustomizations": {
+    "tab.unfocusedActiveBorder": "#fff0",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#71624e",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#130f1699",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBarItem.hoverBackground": "#2d2434"
+  },
+  "peacock.color": "#130f16"
+}
